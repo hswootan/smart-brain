@@ -3,7 +3,7 @@
 ## Register
 ![](images/register.png)
 
-## Login
+## Signin
 ![](images/signin.png)
 
 ## Face Detection Example
