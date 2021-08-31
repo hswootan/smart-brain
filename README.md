@@ -4,7 +4,7 @@
 ![](images/register.png)
 
 ## Login
-![](images/singin.png)
+![](images/signin.png)
 
 ## Face Detection Example
 ![](images/messi.png)
